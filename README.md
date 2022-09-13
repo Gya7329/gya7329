@@ -2,7 +2,7 @@
 Hi 👋 My name is Gyasuddin Ansari
 =================================
 
-React Developer
+Full Stack Developer
 ---------------
 
 Writing well designed, testable, efficient code by using best software development practices Creating website layout/user interfaces by using standard HTML/CSS, JavaScript and React.js practices.
